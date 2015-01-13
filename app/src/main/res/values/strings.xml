@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ToolBarSample</string>
+    <string name="description_fragment">Fragment Content</string>
+    <string name="action_settings_activity">Settings (Activity)</string>
+    <string name="action_settings_fragment">Settings (Fragment)</string>
+
+</resources>
