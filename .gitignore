@@ -32,5 +32,5 @@ proguard/
 *.iml
 *.ipr
 *.iws
-.idea/
-.idea
+.idea/*
+!/.idea/codeStyleSettings.xml
